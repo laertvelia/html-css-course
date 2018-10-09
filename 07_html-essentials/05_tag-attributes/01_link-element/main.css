@@ -1,0 +1,8 @@
+/*div is a selector. {} is a declaration block.
+each declaration has a property(width, height, background-color) and a value(100px,100px, red)*/
+
+div{
+    width:100px;
+    height: 100px;
+    background-color: red;
+}
