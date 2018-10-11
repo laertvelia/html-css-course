@@ -1,0 +1,30 @@
+/*element selector*/
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    border-radius: 50px;
+    background-image: url("../../999_image/bird.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+img{
+    border: 10px groove orangered;
+    border-radius: 100%;
+}
+
+.one{
+    border: 30px dashed darkblue;
+
+}
+
+.two{
+    border: 30px double green;
+
+}
+
+.three{
+    border: 30px solid blue;
+
+}
