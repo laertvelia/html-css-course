@@ -1,0 +1,28 @@
+/*element selector*/
+
+img{
+
+    width: 200px;
+    box-sizing: border-box;
+    border: 10px groove orangered;
+
+    /*padding 20 px means that padding-top,bottom,right and left are all 20px*/
+    padding: 20px;
+
+}
+
+.one{
+    border: 10px dashed darkblue;
+
+}
+/*the bird with the green border is not displayed bc of the display none css property*/
+.two{
+    border: 10px double green;
+    display: none;
+
+}
+
+.three{
+    border: 10px solid blue;
+
+}
