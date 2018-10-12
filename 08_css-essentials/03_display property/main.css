@@ -1,0 +1,38 @@
+/*element selector*/
+
+div{
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+
+
+}
+
+.inline-block{
+    display: block;
+}
+.inline-block{
+    display: inline-block;
+}
+
+img{
+    border: 10px groove orangered;
+    border-radius: 100%;
+    display: inline;
+}
+
+.one{
+    border: 30px dashed darkblue;
+    display: inline;
+}
+/*the bird with the green border is not displayed bc of the display none css property*/
+.two{
+    border: 30px double green;
+    display: none;
+
+}
+
+.three{
+    border: 30px solid blue;
+
+}
