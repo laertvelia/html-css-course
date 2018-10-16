@@ -1,0 +1,6 @@
+/*id selectors*/
+
+[target=_blank]{
+    color:blue;
+    border: 10px solid green;
+}
