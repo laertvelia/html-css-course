@@ -1,6 +1,5 @@
-/*id selectors*/
-
-[contenteditable]{
+/*src attribute*/
+[src]{
     color:blue;
-    border: 1px solid red;
+    border: 10px solid red;
 }

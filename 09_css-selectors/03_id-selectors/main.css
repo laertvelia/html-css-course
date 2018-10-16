@@ -1,3 +1,5 @@
-.paragraph-class{
-    color: blue;
+/*id selectors*/
+
+#id-1{
+    color: aqua;
 }

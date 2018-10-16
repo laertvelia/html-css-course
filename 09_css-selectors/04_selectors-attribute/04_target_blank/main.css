@@ -1,6 +1,6 @@
-/*id selectors*/
+/*target blank attribute*/
 
-[src]{
+[target=_blank]{
     color:blue;
-    border: 10px solid red;
+    border: 10px solid green;
 }

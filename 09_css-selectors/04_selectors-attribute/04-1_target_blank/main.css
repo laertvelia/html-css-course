@@ -1,5 +1,10 @@
-/*id selectors*/
 
+body{
+    text-align: center;
+    font-size: 36px;
+}
+
+/*target blank attribute*/
 [target=_blank]{
     color:blue;
     border: 10px solid green;

@@ -1,6 +1,6 @@
-/*id selectors*/
+/*href attribute*/
 
-[src]{
+[href]{
     color:blue;
     border: 10px solid red;
 }
