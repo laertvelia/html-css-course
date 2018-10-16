@@ -1,0 +1,6 @@
+/*all the input will be focused*/
+/*the fields and the button*/
+input:focus {
+
+    border: 20px solid green;
+}
