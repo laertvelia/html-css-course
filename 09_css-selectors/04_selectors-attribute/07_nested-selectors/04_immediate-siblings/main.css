@@ -1,0 +1,12 @@
+body{
+
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/*p tag qe eshte nje vella/moter i div dhe qe vjen direkt pas div */
+
+div+p {
+    color: red;
+}

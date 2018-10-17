@@ -1,0 +1,13 @@
+body{
+
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/*te gjithe femijet qe vijne direkt pas parent div*/
+ /*direkt pas div vijne dy p edhe section pra kjo do afektove vetem dy p, sepse p e trete ndodhet brenda sectionit*/
+
+div>p {
+    color: red;
+}

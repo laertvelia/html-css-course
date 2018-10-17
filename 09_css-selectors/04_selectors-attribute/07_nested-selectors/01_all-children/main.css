@@ -1,0 +1,14 @@
+body{
+
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/*te gjithe femijet e parent div*/
+
+/*cdo p qe eshte brenda div*/
+
+div p {
+    color: red;
+}

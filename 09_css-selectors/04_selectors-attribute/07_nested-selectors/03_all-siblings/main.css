@@ -1,0 +1,12 @@
+body{
+
+    font-size: 36px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+/*te gjitha p tags qe jane vellezer/motra te nje div*/
+
+div ~ p {
+    color: red;
+}
