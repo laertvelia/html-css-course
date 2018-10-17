@@ -1,0 +1,14 @@
+body{
+    font-size: 30px;
+}
+
+/*cdo li qe eshte femija i pare i prinderit do te jete me ngjyre te kuqe*/
+
+li:first-child {
+    color: red;
+}
+
+/*cdo ul qe eshte femija i pare i prinderit ne kete rast i body do te kete bc-color:green*/
+ul:first-child {
+    background-color: green;
+}

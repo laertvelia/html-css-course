@@ -1,0 +1,10 @@
+body{
+    font-size: 30px;
+}
+
+/*cdo li qe eshte femija me nr tek i prinderit do te jete me ngjyre te kuqe*/
+
+li:nth-child(3){
+    color: red;
+}
+

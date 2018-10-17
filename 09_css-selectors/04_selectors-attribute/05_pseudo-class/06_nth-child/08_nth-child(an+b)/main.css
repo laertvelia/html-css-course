@@ -1,0 +1,28 @@
+/*an+b - b eshte pika e fillimit , a*n eshte rritja*/
+
+/*3*0+2=2, 3*1+2=5, 3*2+2=8, 3*3+2=11, 3*4+2=14 etj */
+
+
+li:nth-child(3n+2){
+
+    color: red;
+}
+
+/*shembuj*/
+
+/*8, 18, 28, 38...*/
+/*li:nth-child(10n+8){
+    color:red;
+}*/
+
+/*9, 12, 15 ... ,39...*/
+
+/* li:nth-child(3n+9){
+    color:red;
+} */
+
+/*3, 12, 21, 30, 39...*/
+
+/* li:nth-child(9n+3){
+    color:red;
+} */
