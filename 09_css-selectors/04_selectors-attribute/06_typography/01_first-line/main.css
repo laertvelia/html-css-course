@@ -1,0 +1,11 @@
+body{
+    font-size: 18px;
+}
+
+/*afektohet vetem rreshti i pare i paragrafit*/
+
+p::first-line {
+
+
+    color: red;
+}

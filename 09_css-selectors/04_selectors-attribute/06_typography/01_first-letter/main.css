@@ -1,0 +1,10 @@
+body{
+    font-size: 18px;
+}
+
+/*afektohet vetem shkronja e pare e paragrafit*/
+p::first-letter {
+
+    font-size: 40px;
+    color: red;
+}
