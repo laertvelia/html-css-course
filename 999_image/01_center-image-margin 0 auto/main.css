@@ -1,0 +1,13 @@
+* {
+    border: 2px dashed pink;
+}
+
+div{
+    height:200px;
+    border: 5px dashed green;
+}
+img{
+    margin: 0 auto;
+    display: block;
+    border: 10px solid black;
+}

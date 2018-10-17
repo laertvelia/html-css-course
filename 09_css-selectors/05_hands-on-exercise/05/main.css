@@ -1,0 +1,13 @@
+p:first-letter{
+    color: red;
+    font-size: 40px;
+}
+
+p:first-line{
+
+    color: blue;
+}
+
+p{
+    font-size: 20px;
+}
