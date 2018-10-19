@@ -1,0 +1,14 @@
+/*Ne kete rast kemi dy klasa, dhe nje element. CSS qe do aplikohet do te jete ajo e klases se fundit si edhe elementet e tjere te elementit te h1 qe jane te ndryshme nga rregulli i klasave. pra ngjyra do jete green dhe do kene nje border 1 px black solid dhe font-style do te jete italic*/
+
+h1{
+    color:yellow;
+    border: 1px black solid;
+    font-style: italic;
+}
+
+.example{
+    color: red;
+}
+.some{
+    color:green;
+}

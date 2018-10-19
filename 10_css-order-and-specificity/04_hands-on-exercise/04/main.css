@@ -1,0 +1,14 @@
+/*Write some CSS that has two rules applying to the same element. The first rule should use an element selector and the second rule should use an attribute. Calculate the CSS specificity of each rule to explain which rule won.
+
+*/
+
+/*element=1*/
+a{
+    color: green;
+}
+
+/*attribute=10*/
+[href]{
+    color: red;
+
+}

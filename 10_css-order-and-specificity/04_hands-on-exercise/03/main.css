@@ -1,0 +1,11 @@
+/*Write some CSS that has two rules applying to the same element. The first rule should use an element selector and the second rule should use a class. Calculate the CSS specificity of each rule to explain which rule won.*/
+
+/*element=1*/
+h1{
+    color:yellow;
+}
+
+/*class=10*/
+.color{
+    color: red;
+}

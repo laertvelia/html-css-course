@@ -1,0 +1,14 @@
+/*css specificity vendos se cili rregull do te perdoret kur kemi rregulla qe bien ndesh me njera tjetren , perdoret rregulli qe ka vleren me te madhe*/
+
+h1{
+    color:yellow;
+}
+#conflict{
+    color:blue;
+}
+.example{
+    color: red;
+}
+.some{
+    color:green;
+}
