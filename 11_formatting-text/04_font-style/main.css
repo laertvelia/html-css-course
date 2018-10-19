@@ -1,0 +1,23 @@
+p{
+    font-family: sans-serif;
+    font-style: normal;
+    font-size: 30px;
+}
+
+
+.pixel{
+
+    font-style: italic;
+}
+
+/* 1 rem = the value of the default user browser text size usually 16px*/
+.one-rem{
+
+    font-style: oblique;
+}
+
+.onepointfive-rem{
+
+ font-style: inherit;
+}
+
