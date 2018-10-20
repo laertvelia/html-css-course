@@ -1,0 +1,15 @@
+.normal,.x{
+    font-size: 15rem;
+    text-align: center;
+line-height: 10px;
+    margin-top: 100px;
+}
+
+/*20=x, 10=y, 0=blur, blue=color*/
+.normal{
+    text-shadow: 20px 10px 0 blue;
+}
+
+.x{
+    text-shadow: -20px 10px 2px red;
+}
