@@ -1,0 +1,37 @@
+p{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 4rem;
+}
+.letter{
+    letter-spacing: 10px;
+}
+.letterone{
+    letter-spacing: normal;
+}
+.lettertwo{
+    letter-spacing: 2rem;
+
+}
+
+.word{
+    word-spacing: 1px;
+}
+.wordone{
+    word-spacing: 4rem;
+}
+.wordtwo{
+    word-spacing: 10px;
+}
+
+.colorone{
+    color: green;
+}
+
+.colortwo{
+    color: #ff57a0;
+}
+
+.colorthree{
+    color: rgba(255,57,160,0.5) ;
+}

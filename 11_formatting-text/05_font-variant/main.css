@@ -1,0 +1,19 @@
+p{
+
+    font-family: sans-serif;
+    font-weight: 200;
+    font-size: 4rem;
+}
+
+.normal{
+    font-variant: normal;
+}
+.small{
+    font-variant: small-caps;
+}
+.titling{
+    font-variant: titling-caps;
+}
+.unicase{
+    font-variant: unicase;
+}

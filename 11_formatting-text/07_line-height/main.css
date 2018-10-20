@@ -1,0 +1,28 @@
+p{
+    font-family: sans-serif;
+    font-weight: normal;
+    font-size: 4rem;
+
+
+    border: 1px solid pink;
+}
+
+.line{
+    line-height: 2;
+}
+.normal{
+    line-height: normal;
+}
+.one{
+    line-height: 1;
+}
+.one-half{
+    line-height: 1.5;
+}
+
+a{
+    font-size: 5rem;
+    text-align: center;
+    display: block;
+    color: red;
+}

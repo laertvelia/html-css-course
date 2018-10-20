@@ -1,0 +1,15 @@
+p{
+    font-size: 4em;
+    font-weight: normal;
+    font-family: sans-serif;
+}
+
+.capitalize{
+    text-transform: capitalize;
+}
+.upercase{
+    text-transform: uppercase;
+}
+.lower{
+    text-transform: lowercase;
+}
