@@ -1,0 +1,8 @@
+a{
+    font-family: serif;
+    font-size: 6rem;
+    text-decoration-line: none;
+}
+a:hover{
+    text-decoration-line: underline;
+}
