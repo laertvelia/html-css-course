@@ -1,0 +1,19 @@
+.s{
+    text-decoration-color: red;
+
+    text-decoration-line: underline;
+    text-decoration-style: dashed;
+}
+p,a{
+    font-size: 5rem;
+}
+.y{
+    text-decoration:  underline;
+}
+a{
+    text-decoration: none;
+}
+
+.line{
+    text-decoration: line-through;
+}
